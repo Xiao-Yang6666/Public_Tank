@@ -178,7 +178,7 @@ public class GameFrame extends Frame implements Runnable {
      * @param g
      */
     private void drawHelp(Graphics g) {
-        //分支和并测试，
+
     }
 
     /**
